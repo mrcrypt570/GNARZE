@@ -2,8 +2,17 @@
 import time
 import os
 
+thisOS=os.name
+
+def clearME():
+    if(thisOS=="posix"):
+        commandOS='clear'
+    else:
+        commandOS='cls'
+    os.system(commandOS)
+
 def tellStory():    
-    os.system('clear')
+    clearME()
     print('''++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 A secluded mountain village, a properous people, a warm hearth - everything
