@@ -24,7 +24,7 @@ You pack some food and gold, don your armor, put your shieled on your back,
 and take up your sword to travel to the capital city of Gnarze to bring
 fortune and glory back to your village.
 
-You leave your cabin and wolk down the path out of the village and consider
+You leave your cabin and walk down the path out of the village and consider
 which way to the city would be best. You're familiar enough with the FOREST
 paths to make the trip in good time. The ROAD could be safer with all of
 the people who use it.
